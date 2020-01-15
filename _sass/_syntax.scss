@@ -62,3 +62,23 @@
 	.il { color: #009999 } /* Literal.Number.Integer.Long */
 }
 
+.navbar{
+
+	box-shadow:         5px 5px 5px #dcdcdc;
+	
+}
+
+.resim-250{
+	max-height: 200px;
+	min-height: 200px;
+}
+
+@media (max-width: 991px){
+	.logo-img{
+		width: 150px;
+	}
+}
+
+.card-block{
+	padding: 0 !important;
+}

@@ -5,16 +5,12 @@ Version:1.0.2
 License: https://www.wowthemes.net/freebies-license/
 */
 body {
-    font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
     overflow-x: hidden;
 }
 .mainheading {
 	padding: 0rem 0rem 1rem 0;
 }
 
-a {
-	color:#6FD350;
-}
 a,a:hover {
 	transition:all 0.2s;
 }
@@ -55,6 +51,7 @@ section.featured-posts {
 section.recent-posts {
     margin-bottom:0;
 }
+
 .section-title h2 {
 	font-weight:700;
 	font-size:1.4rem;
@@ -114,16 +111,12 @@ section.recent-posts {
     margin-left: 1rem;
     font-weight: 500;
     color: #333;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 0.94em;        
+    letter-spacing: 1px;     
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
-    background: #6FD350;
-    color: #fff;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
-        padding-left: 1em;
+    padding-left: 1em;
     padding-right: 1em;
     
 }
@@ -135,9 +128,7 @@ section.recent-posts {
     margin-left: 1rem;
     font-weight: 500;
     color: #333;
-    text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 0.94em;
 }
 .mediumnavigation .dropdown-menu {
         margin:0 0 15px 0;
@@ -168,7 +159,6 @@ section.recent-posts {
 }
 .listfeaturedtag .card {
 	border-radius:2px;
-	height:260px;
 	padding-left:0;
 	margin-bottom:15px;
 }
@@ -176,7 +166,6 @@ section.recent-posts {
 	background-size:cover;
 	height:100%;
 	display:block;
-	background-position:38% 22% !important;
 	background-origin:border-box!important;
 	border-top-left-radius:2px;
 }
@@ -304,9 +293,6 @@ span.post-name a,span.post-read-more a:hover {
     width: 100%;
     padding: 7px 1.5rem;
 }
-.mediumnavigation .nav-item,.dropdown-menu {
-	font-size:0.9rem;
-}
 .mediumnavigation .search-icon {
 	margin-left:-40px;
 	display:inline-block;
@@ -429,9 +415,6 @@ blockquote {
     margin-bottom: 2rem;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
 }
-.article-post img, .article-post iframe {
-    box-shadow:0 6px 10px 0 rgba(0,0,0,0.1);
-}
 .article-post p img, .article-post p iframe {
     margin-bottom:0.5rem;
 }
@@ -516,7 +499,8 @@ blockquote {
 	border-radius:4px;
     margin-bottom: 30px;
     box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.14);
-    border:0;
+    max-height: 400px;
+    min-height: 400px;
 }
 .card .img-thumb {
 	border-top-right-radius:4px;
