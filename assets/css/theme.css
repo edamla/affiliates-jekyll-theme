@@ -138,7 +138,7 @@ section.recent-posts {
 @media (min-width:992px) {    
     .mediumnavigation .dropdown-menu {
         border:0;
-        box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
+        box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.38);
         margin:15px 0;
     }
 
@@ -247,7 +247,6 @@ span.post-read-more a {
 	color:rgba(0,0,0,.44);
      align-items: center;
     display: inline-block;
-    float: right;
      width: 30px;
     height: 30px;
     line-height: 30px;
@@ -759,9 +758,6 @@ background-color: #fff;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
 }
 img {max-width:100%;height: auto;}
-.bottompagination span.navigation {
-
-}
 .bottompagination span.navigation a {
 	background: #fff100;
     color: #333;
