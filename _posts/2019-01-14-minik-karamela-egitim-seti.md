@@ -105,7 +105,7 @@ d-urun: true
             </div>
         </div>
         <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-12 text-center mt-4">
                 <a href="https://www.damlayayinevi.com.tr/minik-karamela-egitim-seti">
                     <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;">Satın Al</button>
                 </a>

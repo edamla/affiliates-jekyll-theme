@@ -15,7 +15,7 @@ d-urun: true
         </div>
         <div class="row">
             <div class="col-12 col-md-6 text-center my-auto">
-                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/uzayli-bugi/2.png">
+                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/uzayli-bugi/3.png">
             </div>
             <div class="col text-center my-auto">
                 <p>Uzaylı Bugi Eğitim Seti’ni hazırlarken çocuklarda istemli öğrenme<br><br>ve kalıcı öğrenme sağlayabilmek için Reggio Emilia eğitiminde yer<br><br>alan bazı etkinlikleri kullandık.<br></p>
@@ -25,7 +25,7 @@ d-urun: true
         </div>
         <div class="row">
             <div class="col-12 col-md-12 text-center my-auto">
-                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/uzayli-bugi/3.png">
+                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/uzayli-bugi/2.png">
             </div>
         </div>
         <div class="row">
@@ -96,12 +96,11 @@ d-urun: true
             </div>
         </div>
         <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-12 text-center mt-4">
                 <a href="https://www.damlayayinevi.com.tr/2018-uzayli-bugi-egitim-seti-reggio-emilia-destekli">
                     <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;">Satın Al</button>
                 </a>
             </div>
         </div>
         </div>
-    </div>
 </section>
