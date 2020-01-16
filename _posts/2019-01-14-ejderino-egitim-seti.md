@@ -2,6 +2,7 @@
 layout: post
 title:  "EJDERİNO EĞİTİM SETİ"
 d-urun: true
+d-link: https://www.damlayayinevi.com.tr/ejderino-egitim-seti-coklu-ogrenme-modeli
 ---
 <section>
     <div class="container">
@@ -103,13 +104,6 @@ d-urun: true
             </div>
             <div class="col-md-12 col-xl-12 text-center my-auto">
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/ejderino/8.jpg">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center mt-4">
-                <a href="https://www.damlayayinevi.com.tr/ejderino-egitim-seti-coklu-ogrenme-modeli">
-                    <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;">Satın Al</button>
-                </a>
             </div>
         </div>
     </div>

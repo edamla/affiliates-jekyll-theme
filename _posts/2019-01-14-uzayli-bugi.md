@@ -2,6 +2,7 @@
 layout: post
 title:  "UZAYLI BUGİ EĞİTİM SETİ"
 d-urun: true
+d-link: https://www.damlayayinevi.com.tr/2018-uzayli-bugi-egitim-seti-reggio-emilia-destekli
 ---
 <section>
     <div class="container">
@@ -93,13 +94,6 @@ d-urun: true
             </div>
             <div class="col-md-12 col-xl-12 text-center my-auto">
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/uzayli-bugi/6.png">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center mt-4">
-                <a href="https://www.damlayayinevi.com.tr/2018-uzayli-bugi-egitim-seti-reggio-emilia-destekli">
-                    <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;">Satın Al</button>
-                </a>
             </div>
         </div>
         </div>

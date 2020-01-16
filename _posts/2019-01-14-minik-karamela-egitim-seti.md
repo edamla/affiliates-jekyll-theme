@@ -2,6 +2,7 @@
 layout: post
 title:  "MİNİK KARAMELA EĞİTİM SETİ"
 d-urun: true
+d-link: https://www.damlayayinevi.com.tr/minik-karamela-egitim-seti
 ---
  <section>
     <div class="container">
@@ -102,13 +103,6 @@ d-urun: true
             </div>
             <div class="col-md-12 col-xl-12 text-center my-auto">
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/karemela/6.jpg">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center mt-4">
-                <a href="https://www.damlayayinevi.com.tr/minik-karamela-egitim-seti">
-                    <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;">Satın Al</button>
-                </a>
             </div>
         </div>
     </div>
