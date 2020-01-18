@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
     <title>{{ page.title }} | {{site.name}}</title>
+    <meta name="title" content="{{site.name}}">
+    <meta name="description" content="{{site.description}}">
+    <meta property="og:title" content="{{site.description}}">
+    <meta property="og:image" content="http://minikdamla.com/assets/images/logo.png">
     {% seo %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
         integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -13,10 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Assistant&display=swap" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
-    <meta name="description" content="{{site.description}}">
-    <meta property="og:title" content="{{site.description}}">
-    <meta property="og:image" content="http://minikdamla.com/assets/images/logo.png">
-
+   
     {{site.sharethis}}
 
     {% if jekyll.environment == 'production' %}
