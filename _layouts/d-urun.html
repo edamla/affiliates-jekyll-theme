@@ -21,15 +21,25 @@ post_class: post-template
 
         </div>
 
+        <div class="col-12 text-center mx-auto">
         <!-- Post Featured Image -->
         {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}"
             alt="{{ page.title }}">{% endif %}
         <!-- End Featured Image -->
-
+        </div>
         <!-- Post Content -->
         <div class="article-post" style="text-align: justify;">
             {{content}}
             <div class="clearfix"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 text-center mt-4">
+                <a href="{{page.d-link}}">
+                    <button type="button" class="btn btn-outline-primary btn-lg" style="color: black;"><i
+                            class="fas fa-shopping-cart mr-2"></i>Satın Al</button>
+                </a>
+            </div>
         </div>
 
         <!-- Post Date -->
@@ -43,8 +53,6 @@ post_class: post-template
                 {% endif %}
             </small>
         </p>
-
-
 
         <!-- Prev/Next -->
         <div class="row PageNavigation mt-4 prevnextlinks">

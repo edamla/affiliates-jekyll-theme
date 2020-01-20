@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: d-urun
 title:  "EJDERİNO EĞİTİM SETİ"
 d-urun: true
 d-link: https://www.damlayayinevi.com.tr/ejderino-egitim-seti-coklu-ogrenme-modeli

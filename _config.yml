@@ -14,6 +14,7 @@ twitter: https://twitter.com/damlayayinevi
 facebook: https://www.facebook.com/DamlaYayinevi/
 instagram: https://www.instagram.com/damlayayinevi/
 youtube: https://www.youtube.com/user/damlayayinevi
+permalink: "/:title"
 
 # Plugins
 plugins: 
