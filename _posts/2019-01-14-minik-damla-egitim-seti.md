@@ -28,7 +28,105 @@ d-link: https://www.damlayayinevi.com.tr/2018-minik-damlalar-egitim-seti-montess
                 <p>Kitaplarımızın içindeki etkinlikler uygulanırken çocukların ilgileri ve dikkatleri toplanmalıdır.<br>Etkinlikler uygulandıktan sonra Montessori Destekli Eğitim uygulamaları ile anlatılankavramlar pekiştirilmelidir.<br></p>
             </div>
             <div class="col-12 col-md-6 text-center my-auto">
-                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/3.jpg">
+                  <table class="table">
+                  <div class="row text-center" style="background-color: #f9a618;">
+        <div class="col-12">
+          <h3>MİNİK DAMLALAR ÖĞRENCİ EĞİTİM SETİ</h3>
+        </div>
+      </div>
+      <tbody style="background-color: #ffefd1;">
+      <tr>
+        <th scope="row">1</th>
+        <td>Eğitim Kitapları</td>
+        <td>8 Kitap</td>
+        <td>48 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>Aile Katılım Kitapları</td>
+        <td>8 Fasikül</td>
+        <td>8 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>Matematik</td>
+        <td>1 Kitap</td>
+        <td>32 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">4</th>
+        <td>Çizgi Çalışmaları</td>
+        <td>1 Kitap</td>
+        <td>32 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td>Kavram Çalışmaları</td>
+        <td>1 Kitap</td>
+        <td>32 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">6</th>
+        <td>Sanal Etkinlği</td>
+        <td>1 Kitap</td>
+        <td>64 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">7</th>
+        <td>Dikkat ve Zekâ Çalışmaları</td>
+        <td>1 Kitap</td>
+        <td>32 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">8</th>
+        <td>Belirli Gün ve Haftalar</td>
+        <td>1 Kitap</td>
+        <td>24 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">9</th>
+        <td>Çıkartmalı Tasarım Kitabım</td>
+        <td>1 Kitap</td>
+        <td>16 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">10</th>
+        <td>Portfolyo Dosyam</td>
+        <td>1 Kitap</td>
+        <td>24 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">11</th>
+        <td>Gözlem ve Gelişim Dosyası</td>
+        <td>1 Kitap</td>
+        <td>16 Sayfa</td>
+      </tr>
+      <tr>
+        <th scope="row">12</th>
+        <td>Başarı Belgesi</td>
+        <td>1 Adet</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">13</th>
+        <td>Gelişim ve Davranış Değerlendirmesi</td>
+        <td>1 Adet</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">14</th>
+        <td>Mozaik Çalışması (Montessori)</td>
+        <td>1 Adet</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">15</th>
+        <td>Boy-Kilo Grafiği</td>
+        <td>1 Adet</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
             </div>
         </div>
         <div class="row">
