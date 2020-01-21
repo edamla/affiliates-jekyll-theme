@@ -2,6 +2,7 @@
 layout: post
 title:  "Dünya’nın En Başarılı Eğitim Modeli Montessori Nedir?"
 image: assets/images/md-image/montessori-nedir/montessori.jpg
+comments: true
 carousel: true
 blog: true
 categories: [ Montessori, ]

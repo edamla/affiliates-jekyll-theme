@@ -2,6 +2,7 @@
 layout: post
 title:  "Değerler Eğitimi Nedir?"
 image: assets/images/md-image/degerler-egitimi/degerler-egitimi.jpg
+comments: true
 featured: true
 blog: true
 ---

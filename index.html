@@ -16,15 +16,15 @@ title: Ana Sayfa
 
         {% for post in site.posts %}
 
-            {% if post.blog == true %}
+        {% if post.blog == true %}
 
-                {% if post.featured == true %}
+        {% if post.featured == true %}
 
-                    {% include featuredbox.html %}
+        {% include featuredbox.html %}
 
-                {% endif %}
-            
-            {% endif %}
+        {% endif %}
+
+        {% endif %}
 
         {% endfor %}
 
@@ -34,47 +34,49 @@ title: Ana Sayfa
 
 <!-- Home Jumbotron
 ================================================== -->
-<div id="carouselExampleCaptions" class="carousel slide offset-sm-3" data-ride="carousel">
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-        {% for post in site.posts %}
+<div class="section mb-5">
+    <div id="carouselExampleCaptions" class="carousel slide offset-sm-3" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            {% for post in site.posts %}
 
-        {% if post.carousel1 == true %}
+            {% if post.carousel1 == true %}
 
-        
+
             <div class="carousel-item active">
                 <a href="{{ post.url | absolute_url }}">
-                <img src="{{ site.baseurl }}/{{ post.image }}" class="d-block w-100" alt="..."></a>
+                    <img src="{{ site.baseurl }}/{{ post.image }}" class="d-block w-100" alt="..."></a>
             </div>
-        
-        {% endif %}
 
-        {% if post.carousel == true %}
-        
-        
+            {% endif %}
+
+            {% if post.carousel == true %}
+
+
             <div class="carousel-item">
                 <a href="{{ post.url | absolute_url }}">
-                <img src="{{ site.baseurl }}/{{ post.image }}" class="d-block w-100" alt="...">
-            </a>
+                    <img src="{{ site.baseurl }}/{{ post.image }}" class="d-block w-100" alt="...">
+                </a>
             </div>
-        
 
-        {% endif %}
 
-        {% endfor %}
+            {% endif %}
+
+            {% endfor %}
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
 </div>
 
 
@@ -94,15 +96,15 @@ title: Ana Sayfa
 
             {% for post in paginator.posts %}
 
-                {% if post.blog == true %}
+            {% if post.blog == true %}
 
-                    {% unless post.featured == true %}
+            {% unless post.featured == true %}
 
-                        {% include postbox.html %}
+            {% include postbox.html %}
 
-                    {% endunless %}
+            {% endunless %}
 
-                {% endif %}    
+            {% endif %}
 
             {% endfor %}
 

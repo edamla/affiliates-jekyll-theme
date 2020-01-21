@@ -3,6 +3,7 @@ layout: d-urun
 title:  "UZAYLI BUGİ EĞİTİM SETİ"
 d-urun: true
 d-link: https://www.damlayayinevi.com.tr/2018-uzayli-bugi-egitim-seti-reggio-emilia-destekli
+comments: true
 ---
 <section>
     <div class="container">

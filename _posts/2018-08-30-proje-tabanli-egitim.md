@@ -2,6 +2,7 @@
 layout: post
 title:  "Proje Tabanlı Eğitim"
 image: assets/images/md-image/proje-tabanli/projetabanli.jpg
+comments: true
 blog: true
 ---
 <section>

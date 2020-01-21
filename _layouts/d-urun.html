@@ -22,10 +22,10 @@ post_class: post-template
         </div>
 
         <div class="col-12 text-center mx-auto">
-        <!-- Post Featured Image -->
-        {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}"
-            alt="{{ page.title }}">{% endif %}
-        <!-- End Featured Image -->
+            <!-- Post Featured Image -->
+            {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}"
+                alt="{{ page.title }}">{% endif %}
+            <!-- End Featured Image -->
         </div>
         <!-- Post Content -->
         <div class="article-post" style="text-align: justify;">
@@ -68,6 +68,20 @@ post_class: post-template
             {% endif %}
         </div>
         <!-- End Prev/Next -->
+
+        <!-- Begin Comments
+================================================== -->
+        {% if page.comments == true %}
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-8">
+                    {% include disqus.html %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        <!--End Comments
+================================================== -->
 
     </div>
     <!-- End Post -->

@@ -3,6 +3,7 @@ layout: d-urun
 title:  "MİNİK KARAMELA EĞİTİM SETİ"
 d-urun: true
 d-link: https://www.damlayayinevi.com.tr/minik-karamela-egitim-seti
+comments: true
 ---
  <section>
     <div class="container">

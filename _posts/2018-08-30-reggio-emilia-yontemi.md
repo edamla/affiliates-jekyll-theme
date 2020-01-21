@@ -2,6 +2,7 @@
 layout: post
 title:  "Reggio Emilia Yöntemi İle Nasıl Çocuk Yetiştirilir?"
 image: assets/images/md-image/regio-yontemi/reggio.jpg
+comments: true
 blog: true
 ---
 <section>

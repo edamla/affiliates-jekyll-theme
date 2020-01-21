@@ -2,6 +2,7 @@
 layout: post
 title:  "Scamper Tekniği Nedir?"
 image: assets/images/md-image/scamper-teknigi/scamper.jpg
+comments: true
 carousel: true
 blog: true
 ---

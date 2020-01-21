@@ -3,6 +3,7 @@ layout: d-urun
 title:  "MİNİK DAMLALAR EĞİTİM SETİ"
 d-urun: true
 d-link: https://www.damlayayinevi.com.tr/2018-minik-damlalar-egitim-seti-montessori-destekli
+comments: true
 ---
 <section>
     <div class="container">

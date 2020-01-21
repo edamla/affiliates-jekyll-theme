@@ -2,6 +2,7 @@
 layout: post
 title:  "Okul Öncesi Tam ve Yarım Günlük Planlar – 2019/2020"
 image: assets/images/md-image/okul-oncesi-planlar/planlar2019.jpg
+comments: true
 featured: true
 carousel1: true
 blog: true

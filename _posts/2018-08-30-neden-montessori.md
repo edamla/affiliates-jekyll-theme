@@ -2,6 +2,7 @@
 layout: post
 title:  "Neden Montessori?"
 image: assets/images/md-image/neden-montessori/montessori.png
+comments: true
 blog: true
 ---
 <section>

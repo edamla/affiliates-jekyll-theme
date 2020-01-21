@@ -2,6 +2,7 @@
 layout: post
 title:  "Orff Eğitim Modeli Nedir?"
 image: assets/images/md-image/orff-egitimi/carl-orff.png
+comments: true
 blog: true
 ---
 <section>
