@@ -22,8 +22,17 @@ post_class: post-template
         </div>
 
         <!-- Post Featured Image -->
-        {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}"
-            alt="{{ page.title }}">{% endif %}
+        {% if page.image %}
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+                </div>
+            </div>
+        </div>
+        
+        
+        {% endif %}
         <!-- End Featured Image -->
 
         <!-- Post Content -->
@@ -61,19 +70,6 @@ post_class: post-template
         </div>
         <!-- End Prev/Next -->
 
-        <!-- Begin Comments
-================================================== -->
-        {% if page.comments == true %}
-        <div class="container">
-            <div class="row justify-content-center mb-5">
-                <div class="col-md-8">
-                    {% include disqus.html %}
-                </div>
-            </div>
-        </div>
-        {% endif %}
-        <!--End Comments
-================================================== -->
 
     </div>
     <!-- End Post -->

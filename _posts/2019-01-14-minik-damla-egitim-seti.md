@@ -1,6 +1,6 @@
 ---
 layout: d-urun
-title:  "MİNİK DAMLALAR EĞİTİM SETİ"
+title: "MİNİK DAMLALAR EĞİTİM SETİ"
 d-urun: true
 d-link: https://www.damlayayinevi.com.tr/2018-minik-damlalar-egitim-seti-montessori-destekli
 comments: true
@@ -20,13 +20,19 @@ comments: true
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/2.jpg">
             </div>
             <div class="col text-center my-auto">
-                <p>Minik Damlalar Eğitim Seti’ni hazırlarken çocuklarda istemli öğrenme ve kalıcı öğrenme sağlayabilmek için Montessori eğitiminde yer alan bazı etkinlikleri kullandık. Montessori EğitimMateryalleri ile desteklenen etkinlikler hazırladık.<br></p>
-                <p>Amacımız;<br>Öğrenmeyi istendik, keyifli ve kalıcı hâle getirmektir. Çocuklarımıza yaşam becerileri kazandırıp kimseye bağımlı olmadan, problemlerini çözebilen, kendine güvenen bireyleryetiştirmektir.<br></p>
+                <p>Minik Damlalar Eğitim Seti’ni hazırlarken çocuklarda istemli öğrenme ve kalıcı öğrenme sağlayabilmek
+                    için Montessori eğitiminde yer alan bazı etkinlikleri kullandık. Montessori EğitimMateryalleri ile
+                    desteklenen etkinlikler hazırladık.<br></p>
+                <p>Amacımız;<br>Öğrenmeyi istendik, keyifli ve kalıcı hâle getirmektir. Çocuklarımıza yaşam becerileri
+                    kazandırıp kimseye bağımlı olmadan, problemlerini çözebilen, kendine güvenen
+                    bireyleryetiştirmektir.<br></p>
             </div>
         </div>
         <div class="row">
             <div class="col text-center my-auto">
-                <p>Kitaplarımızın içindeki etkinlikler uygulanırken çocukların ilgileri ve dikkatleri toplanmalıdır.<br>Etkinlikler uygulandıktan sonra Montessori Destekli Eğitim uygulamaları ile anlatılankavramlar pekiştirilmelidir.<br></p>
+                <p>Kitaplarımızın içindeki etkinlikler uygulanırken çocukların ilgileri ve dikkatleri
+                    toplanmalıdır.<br>Etkinlikler uygulandıktan sonra Montessori Destekli Eğitim uygulamaları ile
+                    anlatılankavramlar pekiştirilmelidir.<br></p>
             </div>
             <div class="col-12 col-md-6 text-center my-auto">
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/3.jpg">
@@ -34,7 +40,7 @@ comments: true
         </div>
         <div class="row">
             <div class="col-12 text-center my-auto mt-4">
-                <img  src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/4.jpg">
+                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/4.jpg">
             </div>
             <div class="col text-center mt-4">
                 <h4><strong>8 Kitaplık Eğitim Seti</strong><br></h4>
@@ -49,7 +55,7 @@ comments: true
             </div>
         </div>
         <div class="row">
-            <div class="col-12 text-center my-auto mt-4">    
+            <div class="col-12 text-center my-auto mt-4">
                 <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/6.jpg">
             </div>
         </div>
@@ -115,10 +121,36 @@ comments: true
         </div>
         <div class="row">
             <div class="col-12 mt-4">
-                <h5 class="text-center">Ejderino Eğitim Seti’nin Akıllı Tahta Dijital İçeriğine <a href="https://e-damla.com.tr/">www.e-damla.com.tr</a> adresi üzerindeki öğretmen girişinden erişebilirsiniz.<br></h5>
+                <h5 class="text-center">Ejderino Eğitim Seti’nin Akıllı Tahta Dijital İçeriğine <a
+                        href="https://e-damla.com.tr/">www.e-damla.com.tr</a> adresi üzerindeki öğretmen girişinden
+                    erişebilirsiniz.<br></h5>
             </div>
             <div class="col-md-12 col-xl-12 text-center my-auto">
-                <img src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/11.jpg">
+                <img class="img-fluid" data-toggle="modal" data-target="#11"
+                    src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/11.jpg">
+            </div>
+            <div class="modal fade" id="11" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <img class="img-fluid" src="{{ site.baseurl }}/assets/images/egitim-setleri/minik-damla/11.jpg">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
             </div>
         </div>
     </div>

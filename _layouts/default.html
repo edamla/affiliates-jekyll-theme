@@ -15,7 +15,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Assistant&display=swap" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/custom2.css" rel="stylesheet">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/images/favicon/apple-icon-57x57.png">
@@ -98,10 +98,11 @@
                         <div class="dropdown-menu" aria-labelledby="dropdown01">
                             {% for post in site.posts %}
 
-                            {% if post.d-urun == true %}
+                                {% if post.d-urun == true %}
 
-                            <a class="dropdown-item" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-                            {% endif %}
+                                    <a class="dropdown-item" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+
+                                {% endif %}
 
                             {% endfor %}
                         </div>
@@ -111,7 +112,7 @@
                         <a class="nav-link" href="{{ site.baseurl }}/catalog.html">Katalog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/okul-oncesi-planlar.html">Planlar</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/okul-oncesi-planlar(2020).html">Planlar</a>
                     </li>
 
                     <li class="nav-item">
@@ -211,7 +212,7 @@
 
                             <!-- Grid column -->
                             <div class="col-4 col-sm-12 mb-3">
-                                <a href="{{ site.baseurl }}/2018/08/30/okul-oncesi-planlar.html" style="color: white;">
+                                <a href="{{ site.baseurl }}/2018/08/30/okul-oncesi-planlar(2020).html" style="color: white;">
                                     <h6 class=" font-weight">Planlar</h6>
                                 </a>
                             </div>
