@@ -132,19 +132,19 @@ blog: true
         <div class="row icat-row">
             <div class="col-4">
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/stem-a-nedir" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat6.png">
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/scamber-teknigi" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat7.png">
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/degerler-egitimi" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat8.png">
                     </a>
@@ -186,19 +186,19 @@ blog: true
             </div>
             <div class="col-4">
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/neden-montessori" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat9.png">
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/orff-egitim-modeli" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat10.png">
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="http://" class="not-yellow">
+                    <a href="https://minikdamla.com/inovasyon" class="not-yellow">
                         <img class="img-fluid tiklama"
                             src="{{ site.baseurl }}/assets/images/egitim-setleri/icat/icat11.png">
                     </a>

@@ -163,25 +163,25 @@ blog: true
         </div>
         <div class="row ponpon-row">
             <div class="col-3">
-                <a class="not-yellow" href="http://">
+                <a class="not-yellow" href="https://minikdamla.com/stem-a-nedir">
                     <img class="img-fluid tiklama"
                         src="{{ site.baseurl }}/assets/images/egitim-setleri/ponpon-pinpin/ponpon7.png">
                 </a>
             </div>
             <div class="col-3">
-                <a class="not-yellow" href="http://">
+                <a class="not-yellow" href="https://minikdamla.com/scamber-teknigi">
                     <img class="img-fluid tiklama"
                         src="{{ site.baseurl }}/assets/images/egitim-setleri/ponpon-pinpin/ponpon7-2.png">
                 </a>
             </div>
             <div class="col-3">
-                <a class="not-yellow" href="http://">
+                <a class="not-yellow" href="https://minikdamla.com/neden-montessori">
                     <img class="img-fluid tiklama"
                         src="{{ site.baseurl }}/assets/images/egitim-setleri/ponpon-pinpin/ponpon7-3.png">
                 </a>
             </div>
             <div class="col-3">
-                <a class="not-yellow" href="http://">
+                <a class="not-yellow" href="https://minikdamla.com/orff-egitim-modeli">
                     <img class="img-fluid tiklama"
                         src="{{ site.baseurl }}/assets/images/egitim-setleri/ponpon-pinpin/ponpon7-4.png">
                 </a>
