@@ -10,6 +10,7 @@ baseurl: '/'
 email: 'iletisim@damlayayinevi.com.tr'
 google_analytics: 'UA-53710816-12'
 disqus: 'www-minikdamla-com'
+permalink: "/:title/"
 twitter: https://twitter.com/damlayayinevi
 facebook: https://www.facebook.com/DamlaYayinevi/
 instagram: https://www.instagram.com/damlayayinevi/
